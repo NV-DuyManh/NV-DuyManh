@@ -1,2 +1,2 @@
 ## My GitHub Snake 🐍
-![snake gif](https://github.com/NV-DuyManh/NV-DuyManh/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/NV-DuyManh/NV-DuyManh/raw/output/github-contribution-grid-snake.svg)
