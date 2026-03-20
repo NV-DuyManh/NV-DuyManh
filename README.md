@@ -6,7 +6,7 @@
 ---
 
 ### 🏆 My GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=NV-DuyManh&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=NV-DuyManh)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
