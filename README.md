@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Duy Mạnh! 👋
-![Profile Views](https://komarev.com/ghpvc/?username=NV-DuyManh&color=blueviolet&style=flat-square&label=VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=NV-DuyManh&color=blueviolet&style=for-the-badge&label=VIEWS)
 
 ### 🐍 GitHub Contribution Snake
 ![Snake animation](https://github.com/NV-DuyManh/NV-DuyManh/raw/output/github-snake.svg)
