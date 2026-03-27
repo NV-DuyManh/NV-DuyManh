@@ -18,6 +18,6 @@
 ---
 
 ### 📈 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NV-DuyManh&theme=tokyonight&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NV-DuyManh&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area_color=00FF00&hide_border=true)
 
 </div>
