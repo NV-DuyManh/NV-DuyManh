@@ -3,6 +3,11 @@
 # Hi, I'm Duy Mạnh! 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=NV-DuyManh&color=blueviolet&style=for-the-badge&label=VIEWS)
 
+**Open for work and collaboration! Feel free to reach out:**
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duymanhdev@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/duymanhdev)
+
 ### 🐍 GitHub Contribution Snake
 ![Snake animation](https://github.com/NV-DuyManh/NV-DuyManh/raw/output/github-snake.svg)
 
