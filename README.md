@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Duy Mạnh! 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hi,+I'm+Duy+Manh!+%F0%9F%91%8B;Software+Developer" alt="Typing SVG" /></a>
 ![Profile Views](https://komarev.com/ghpvc/?username=NV-DuyManh&color=blueviolet&style=for-the-badge&label=VIEWS)
 
 **Open for work and collaboration! Feel free to reach out:**
