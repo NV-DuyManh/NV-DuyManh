@@ -11,8 +11,7 @@
 ### 📊 GitHub Stats & Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NV-DuyManh&show_icons=true&theme=radical&rank_icon=github&border_radius=10&hide=contribs" alt="Stats" height="180px" />&nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NV-DuyManh&layout=compact&theme=tokyonight&border_radius=10" alt="Top Langs" height="180px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NV-DuyManh&show_icons=true&theme=radical&rank_icon=github&border_radius=10&hide=contribs" alt="Stats" height="180px" />&nbsp;&nbsp;<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NV-DuyManh&layout=compact&theme=tokyonight&border_radius=10" alt="Top Langs" height="180px" />
 </p>
 
 ---
