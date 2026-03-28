@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hi,+I'm+Duy+Manh!+%F0%9F%91%8B;I'm+a+Fullstack+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Hi,+I'm+Duy+Manh!+%F0%9F%91%8B;I'm+an+intern+Fullstack" alt="Typing SVG" /></a>
 <br>
 ![Profile Views](https://komarev.com/ghpvc/?username=NV-DuyManh&color=blueviolet&style=for-the-badge&label=VIEWS)
 
