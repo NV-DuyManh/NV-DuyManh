@@ -1,0 +1,25 @@
+name: Metrics
+on:
+  # Chạy tự động vào nửa đêm mỗi ngày
+  schedule: [{cron: "0 0 * * *"}]
+  # Cho phép bạn bấm chạy thủ công
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: NV-DuyManh
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Ho_Chi_Minh
+          
+          # BẬT TÍNH NĂNG THỐNG KÊ NGÔN NGỮ
+          plugin_languages: yes
+          plugin_languages_indepth: yes # Quét sâu vào từng commit để tính chính xác
+          plugin_languages_details: bytes-size, percentage
+          # Loại bỏ các ngôn ngữ phụ để tôn lên các ngôn ngữ lập trình chính
+          plugin_languages_ignored: html, css, scss, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
