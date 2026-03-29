@@ -1,10 +1,7 @@
 name: Metrics
 on:
-  # Chạy tự động vào nửa đêm mỗi ngày
   schedule: [{cron: "0 0 * * *"}]
-  # Cho phép bạn bấm chạy thủ công
   workflow_dispatch:
-
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -14,12 +11,20 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: NV-DuyManh
           template: classic
-          base: header, activity, community, repositories, metadata
+          
+          # PHẦN QUAN TRỌNG: Tắt hết các thông tin thừa
+          base: "" 
           config_timezone: Asia/Ho_Chi_Minh
           
-          # BẬT TÍNH NĂNG THỐNG KÊ NGÔN NGỮ
+          # Ép sang chế độ Dark Mode cực đẹp
+          config_display: large
+          config_padding: 0, 5%
+          design_title_color: "#8A2BE2" # Màu tím giống Typing SVG của bạn
+          
+          # Chỉ hiển thị thanh ngôn ngữ (Languages)
           plugin_languages: yes
-          plugin_languages_indepth: yes # Quét sâu vào từng commit để tính chính xác
-          plugin_languages_details: bytes-size, percentage
-          # Loại bỏ các ngôn ngữ phụ để tôn lên các ngôn ngữ lập trình chính
-          plugin_languages_ignored: html, css, scss, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
+          plugin_languages_ignored: html, css, scss, tex, dockerfile, makefile
+          plugin_languages_details: percentage # Chỉ hiện % cho gọn
+          plugin_languages_sections: most-used
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 8
