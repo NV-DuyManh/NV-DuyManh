@@ -49,8 +49,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NV-DuyManh&show_icons=true&theme=radical&rank_icon=github&border_radius=10&hide=contribs" alt="Stats" height="150" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NV-DuyManh&layout=compact&theme=tokyonight&border_radius=10&langs_count=8" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NV-DuyManh&layout=compact&theme=dark&hide_border=true&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=0d1117" alt="Top Langs" height="150" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NV-DuyManh&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" height="150" />
 </p>
