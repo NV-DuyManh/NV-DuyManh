@@ -1,18 +1,26 @@
-name: Buff Profile Views
+name: Super Fast View Buff
 
 on:
   schedule:
-    - cron: '*/5 * * * *' # Cứ 5 phút chạy một lần
-  workflow_dispatch: # Cho phép nhấn nút chạy thủ công
+    - cron: '* * * * *' # Chạy liên tục mỗi 1 phút (Max tốc độ của GitHub)
+  workflow_dispatch: # Nút bấm để Duy Mạnh tự chạy tay bất cứ lúc nào
 
 jobs:
-  buff:
+  buff_fast:
     runs-on: ubuntu-latest
     steps:
-      - name: Send requests to Komarev
+      - name: Turbo Requests
         run: |
-          for i in {1..100}
+          # Bắn 200 requests mỗi lần chạy
+          for i in {1..200}
           do
-            curl -s https://komarev.com/ghpvc/?username=NV-DuyManh > /dev/null
-            echo "Request $i sent"
+            # Giả lập User-Agent ngẫu nhiên để vượt bộ lọc spam
+            USER_AGENT="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/$((RANDOM%20+100)).0.0.$((RANDOM%5000)) Safari/537.36"
+            
+            # Thêm tham số cache phá vỡ bộ nhớ đệm của GitHub
+            curl -s -A "$USER_AGENT" "https://komarev.com/ghpvc/?username=NV-DuyManh&cache=$(date +%s%N)$i" > /dev/null
+            
+            # In ra để theo dõi tiến độ
+            if [ $((i % 50)) -eq 0 ]; then echo "Đã bắn được $i views..."; fi
           done
+          echo "Hoàn thành đợt buff này! Đợi 1 phút sau hệ thống tự chạy tiếp."
