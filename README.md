@@ -57,4 +57,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NV-DuyManh&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" height="150" />
 </p>
 
+---
+
+### 📈 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NV-DuyManh&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area_color=00FF00&hide_border=true)
+
 </div>
+
