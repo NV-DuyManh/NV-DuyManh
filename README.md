@@ -1,7 +1,9 @@
+
 <div align="center">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Hi,+I'm+Duy+Manh!+%F0%9F%91%8B;I'm+an+intern+Fullstack" alt="Typing SVG" /></a>
 <br>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=NV-DuyManh&color=blueviolet&style=for-the-badge&label=VIEWS)
 
 **Open for work and collaboration! Feel free to reach out:**
@@ -42,6 +44,7 @@
 ---
 
 ### 🐍 GitHub Contribution Snake
+
 ![Snake animation](https://github.com/NV-DuyManh/NV-DuyManh/raw/output/github-snake.svg)
 
 ---
@@ -49,7 +52,7 @@
 ### 📊 GitHub Stats, Top Languages & Code Streak
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NV-DuyManh&show_icons=true&theme=radical&rank_icon=github&border_radius=10&hide=contribs&count_private=true" alt="Stats" height="150" />
+  <img src="https://github-stats-extended.vercel.app/api?username=NV-DuyManh&show_icons=true&theme=radical&rank_icon=github&border_radius=10&hide=contribs&count_private=true" alt="Stats" height="150" />
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NV-DuyManh&layout=compact&theme=dark&hide_border=true&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=0d1117&count_private=true" alt="Top Langs" height="150" />
 </p>
 
@@ -60,7 +63,7 @@
 ---
 
 ### 📈 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NV-DuyManh&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area_color=00FF00&hide_border=true)
+
+![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NV-DuyManh&theme=github_dark)
 
 </div>
-
